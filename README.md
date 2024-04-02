@@ -38,7 +38,9 @@ npm start
 
 # 시작
 ## 파일정리
-> src/App.js  :  
-> import 지우고 , div 안에 내용, 클래스도 지우기
+> ***src/App.js  :*** import 지우고 , div 안에 내용, 클래스도 지우기  
+> ***src/App.css :*** 내용 지우기
+> ***index.css :*** 내용 지우기
+> ***App.text.js :*** 파일 지우기
 
 
