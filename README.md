@@ -39,8 +39,49 @@ npm start
 # 시작
 ## 파일정리
 > ***src/App.js  :*** import 지우고 , div 안에 내용, 클래스도 지우기  
-> ***src/App.css :*** 내용 지우기
-> ***index.css :*** 내용 지우기
+> ***src/App.css :*** 내용 지우기  
+> ***index.css :*** 내용 지우기  
 > ***App.text.js :*** 파일 지우기
 
+1. src/App.js
+```javascript
+      import "./App.css"
 
+      function App() {
+        return (
+          <div className="game">
+            <div className="game-board">
+      
+            </div>
+            <div className="game-info">
+              
+            </div>
+          </div>
+        );
+      }
+      
+      export default App;
+```
+2. src/App.css
+    ```css
+        .game {
+          display: block;
+          flex-direction: row;
+        }
+        .game-info {
+          margin-left: 20px;
+        }
+    ```
+3. src/index.css (모두적용 CSS)
+   ```css
+         body {
+          font: 14px "Century Gothic", Futura, sans-serif;
+          margin: 20px;
+        }
+        ol, ul {
+          padding-left: 30px;
+        }
+   ```
+4. src/components/Board.js 파일생성  : 클래스형 컴포먼트
+4. src/components/Square.js 파일생성  : 클래스형 컴포먼트
+5. es7 확잔프록스램-> rcc rfc 
