@@ -38,7 +38,7 @@ npm start
 
 # 시작
 ## 파일정리
-> src/App.js
+> src/App.js  :  
 > import 지우고 , div 안에 내용, 클래스도 지우기
 
 
