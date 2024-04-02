@@ -7,9 +7,7 @@
 - Babel (바벨) : 최신 JS문법을 지원하지 않는 브라우저를 위해 문법 변환 시켜주는 라이브러리
 - npx : 노드 패키지 실행을 도와주는 도구
 - Single Page  Application (SPA) : HTML 5의 Hisroty API를 사용해서 페이지 전환 (Reat-Rounter-Dom -> History API 사용)
-
-
-
+|명령어|설명|
 |------|---|
 Hisroty.back()|세션 기록의 바로 뒤 페이지로 이동하는 비동기 메서드. 브라우저의 뒤로 가기를 누르는 것과 같은 효과를 낸다. 
 Historry.forward()|세션 기록의 바로 앞 페이지로 이동하는 비동기 메서드. 브라우저의 앞으로 가기를 누르는 것과 같은 효과를 낸다.
