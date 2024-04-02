@@ -36,3 +36,9 @@ npm start
 1. publick / indes.html : 페이지 템플릿
 2. src/ index.js : 자바스크립트 시작점
 
+# 시작
+## 파일정리
+> src/App.js
+> import 지우고 , div 안에 내용, 클래스도 지우기
+
+
