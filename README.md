@@ -33,7 +33,7 @@ npm run start
 npm start
 ```
 이름 수정하면 안됨
-1. publick / indes.html : 페이지 템플릿
+1. public / index.html : 페이지 템플릿
 2. src/ index.js : 자바스크립트 시작점
 
 # 시작
