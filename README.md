@@ -84,4 +84,4 @@ npm start
    ```
 4. src/components/Board.js 파일생성  : 클래스형 컴포먼트
 4. src/components/Square.js 파일생성  : 클래스형 컴포먼트
-5. es7 확잔프록스램-> rcc rfc 
+5. es7 확산 프로그램-> rcc rfc 
